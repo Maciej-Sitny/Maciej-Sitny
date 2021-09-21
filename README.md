@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maciej-Sitny
+- 👋 Hi, I’m Maciej Sitny
 - 👀 I’m interested in programming and Formula 1
 - 🌱 I’m currently learning JavaScript, Git, Django, CSS
 - 📫 How to reach me: maciejsitny@gmail.com
