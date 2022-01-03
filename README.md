@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maciej Sitny
 - 👀 I’m interested in programming and Formula 1
-- 🌱 I’m currently learning JavaScript, Git, Django, CSS
+- 🌱 I’m currently learning TOP (last bits of Foundations)
 - 📫 How to reach me: maciejsitny@gmail.com
 
 <!---
