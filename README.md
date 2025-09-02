@@ -4,7 +4,7 @@ I’m a 3rd-year Computer Science student at AGH University of Krakow. I combine
 
 🎓 CS student at AGH University of Krakow  
 
-🖥️ Head of IT Coordination at the Krakow Engineering Job Fair  
+🖥️ Lead IT Coordinator for the 28th Engineering Job Fair (BEST AGH Kraków)
 
 🔍 Visual Data Analyst at CDSI AGH, working on annotation and validation of datasets for computer vision algorithms  
 
