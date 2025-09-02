@@ -32,6 +32,13 @@ I’m a 3rd-year Computer Science student at AGH University of Krakow. I combine
 </p>
 
 <p align="center">
+  <!-- Backend / Frameworks -->
+  <b>Backend / Frameworks</b><br/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center">
   <!-- Backend / Databases -->
   <b>Databases</b><br/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
