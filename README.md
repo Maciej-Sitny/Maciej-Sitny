@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I’m a 3rd-year Computer Science student at AGH University of Krakow. I combine my studies with hands-on experience in tech and data:
+I’m a 3rd-year Computer Science student at AGH University of Krakow. On this account, you can follow my entire programming journey - from my very first projects to more advanced ones from my studies and personal work. I combine my studies with hands-on experience in tech and data:
 
 🎓 CS student at AGH University of Krakow  
 
