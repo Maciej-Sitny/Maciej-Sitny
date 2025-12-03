@@ -1,12 +1,12 @@
 # 👋 Hi there!
 
-I’m a 3rd-year Computer Science student at AGH University of Krakow. On this account, you can follow my entire programming journey - from my very first projects to more advanced ones from my studies and personal work. I combine my studies with hands-on experience in tech and data:
+I’m a 3rd-year Computer Science student at AGH University of Krakow. Alongside my studies, I work as a backend developer, and this account showcases the projects I build while growing my skills and experimenting with new technologies.
+
+🔍 Junior Backend Developer at **FanServ** — working mainly with **Django** and **PostgreSQL**
 
 🎓 CS student at AGH University of Krakow  
 
 🖥️ Lead IT Coordinator for the 28th Engineering Job Fair (BEST AGH Kraków)
-
-🔍 Junior Backend Developer at **FanServ** — working mainly with **Django** and **PostgreSQL**
 
 📫 How to reach me: maciejsitny@gmail.com  
 
@@ -35,7 +35,7 @@ I’m a 3rd-year Computer Science student at AGH University of Krakow. On this a
   <!-- Backend / Frameworks -->
   <b>Backend / Frameworks</b><br/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </p>
 
 <p align="center">
